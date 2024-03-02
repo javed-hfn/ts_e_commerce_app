@@ -1,0 +1,12 @@
+.product-img img {
+  height: 180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.product-title {
+  min-height: 85px;
+  font-size: 14px;
+  font-weight: 600;
+}
